@@ -35,7 +35,7 @@ Vamos começar criando o arquivo HTML com uma estrutura semântica:
         <section class="filmes-container">
             <!-- Filme 1 -->
             <article class="card-filme">
-                <img src="https://via.placeholder.com/300x450" alt="Duna: Parte 2">
+                <img src="https://picsum.photos/300/450" alt="Duna: Parte 2">
                 <div class="info-filme">
                     <h2>Duna: Parte 2</h2>
                     <p class="diretor">Diretor: Denis Villeneuve</p>
@@ -46,7 +46,7 @@ Vamos começar criando o arquivo HTML com uma estrutura semântica:
             
             <!-- Filme 2 -->
             <article class="card-filme">
-                <img src="https://via.placeholder.com/300x450" alt="Deadpool & Wolverine">
+                <img src="https://picsum.photos/300/450" alt="Deadpool & Wolverine">
                 <div class="info-filme">
                     <h2>Deadpool & Wolverine</h2>
                     <p class="diretor">Diretor: Shawn Levy</p>
@@ -57,7 +57,7 @@ Vamos começar criando o arquivo HTML com uma estrutura semântica:
             
             <!-- Filme 3 -->
             <article class="card-filme">
-                <img src="https://via.placeholder.com/300x450" alt="Furiosa: Uma Saga Mad Max">
+                <img src="https://picsum.photos/300/450" alt="Furiosa: Uma Saga Mad Max">
                 <div class="info-filme">
                     <h2>Furiosa: Uma Saga Mad Max</h2>
                     <p class="diretor">Diretor: George Miller</p>
